@@ -2601,14 +2601,42 @@ footer .copyright span:last-child::after {
 
 .publications .card{
 
-    margin: 10rem 20rem;
+
 }
 
 .publications .card-header{
-    padding: 3rem 0rem;
+
 }
 
 
 .publications .card-footer {
-    padding: 3rem 0;
+
+}
+
+.paper_text{
+
+margin:7%}
+
+.paper_button{
+
+
+}
+
+.paperimg img{
+    max-width: 100%;
+    height: auto;
+    margin: 41px 1px;
+}
+
+
+
+.paper_button {
+    width: auto;
+    display: flex;
+    margin: auto;
+}
+
+
+.card{
+    margin: 2rem 0;
 }
